@@ -155,47 +155,47 @@ This option demonstrates inheritance using issubclass().
 
 The following screenshots show the working of the Employee Management System.
 
-### Main Menu
+# 📸 Screenshots
 
-The main menu provides different options to create objects and perform operations.
+## Main Menu
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](./main_menu.png)
 
-### Person Output
+---
 
-This screenshot shows the creation and display of a Person object.
+## Person Output
 
-![Person Output](screenshots/person_output.png)
+![Person Output](./person_output.png)
 
-### Employee Output
+---
 
-This screenshot shows the creation and display of an Employee object.
+## Employee Output
 
-![Employee Output](screenshots/employee_output.png)
+![Employee Output](./employee_output.png)
 
-### Manager Output
+---
 
-This screenshot shows the creation and display of a Manager object.
+## Manager Output
 
-![Manager Output](screenshots/manager_output.png)
+![Manager Output](./manager_output.png)
 
-### Developer Output
+---
 
-This screenshot shows the creation and display of a Developer object.
+## Developer Output
 
-![Developer Output](screenshots/developer_output.png)
+![Developer Output](./developer_output.png)
 
-### Details Output
+---
 
-This screenshot shows the details of the objects created in the program.
+## Details Output
 
-![Details Output](screenshots/details_output.png)
+![Details Output](./details_output.png)
 
-### OOP Concepts
+---
 
-This screenshot shows the verification of OOP concepts using the program.
+## OOP Concepts
 
-![OOP Concepts](screenshots/oop_concepts.png)
+![OOP Concepts](./oop_concepts.png)
 
 ---
 ## 8. Explanation Video

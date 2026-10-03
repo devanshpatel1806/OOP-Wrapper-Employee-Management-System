@@ -151,7 +151,6 @@ This option displays the details of all objects created during program execution
 
 This option demonstrates inheritance using issubclass().
 ---
-
 ## 7. Screenshots
 
 The following screenshots show the working of the Employee Management System.
@@ -192,8 +191,13 @@ This screenshot shows the details of the objects created in the program.
 
 ![Details Output](screenshots/details_output.png)
 
----
+### OOP Concepts
 
+This screenshot shows the verification of OOP concepts using the program.
+
+![OOP Concepts](screenshots/oop_concepts.png)
+
+---
 ## 8. Explanation Video
 
 The explanation video demonstrates the project code and explains the main OOP concepts used in the program.

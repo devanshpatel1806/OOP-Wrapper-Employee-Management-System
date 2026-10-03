@@ -85,9 +85,9 @@ The __del__() method is used as a destructor.
 
 When the program starts, the following menu is displayed:
 
-================================
- EMPLOYEE MANAGEMENT SYSTEM
-================================
+
+## EMPLOYEE MANAGEMENT SYSTEM
+
 1. Create a Person
 2. Create an Employee
 3. Create a Manager
@@ -103,8 +103,8 @@ The user can select an option according to the required operation.
 
 The user enters:
 
--Name
--Age
+- Name
+- Age
 
 A Person object is created.
 
@@ -112,10 +112,10 @@ A Person object is created.
 
 The user enters:
 
--Name
--Age
--Employee ID
--Salary
+- Name
+- Age
+- Employee ID
+- Salary
 
 An Employee object is created.
 
@@ -123,11 +123,11 @@ An Employee object is created.
 
 The user enters:
 
--Name
--Age
--Employee ID
--Salary
--Department
+- Name
+- Age
+- Employee ID
+- Salary
+- Department
 
 A Manager object is created.
 
@@ -135,11 +135,11 @@ A Manager object is created.
 
 The user enters:
 
--Name
--Age
--Employee ID
--Salary
--Programming Language
+- Name
+- Age
+- Employee ID
+- Salary
+- Programming Language
 
 A Developer object is created.
 
@@ -205,18 +205,18 @@ The explanation video demonstrates the project code and explains the main OOP co
 
 Through this project, the following concepts were learned and implemented:
 
--Creating classes and objects in Python
--Using constructors and destructors
--Implementing inheritance
--Understanding multilevel inheritance
--Implementing encapsulation using private attributes
--Using getter and setter methods
--Overriding methods in child classes
--Using the super() function
--Understanding the use of self
--Using isinstance() and issubclass()
--Creating a menu-driven Python application
--Managing multiple objects using a list
+- Creating classes and objects in Python
+- Using constructors and destructors
+- Implementing inheritance
+- Understanding multilevel inheritance
+- Implementing encapsulation using private attributes
+- Using getter and setter methods
+- Overriding methods in child classes
+- Using the super() function
+- Understanding the use of self
+- Using isinstance() and issubclass()
+- Creating a menu-driven Python application
+- Managing multiple objects using a list
 ## 10. Conclusion
 
 The OOP Wrapper - Employee Management System successfully demonstrates the fundamental concepts of Object-Oriented Programming in Python.
